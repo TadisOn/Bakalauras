@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tjutk\\Documents\\GitHub\\Bakalauras\\ProjectManagment\\ProjectManagment\\ProjectManagment.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\tjutk\\Documents\\GitHub\\Bakalauras\\ProjectManagment\\ProjectManagment\\ProjectManagment.Client\\obj\\Debug\\net8.0\\compressed\\yaeewa20u8.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\tjutk\\Documents\\GitHub\\Bakalauras\\ProjectManagment\\ProjectManagment\\ProjectManagment.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\tjutk\\Documents\\GitHub\\Bakalauras\\ProjectManagment\\ProjectManagment\\ProjectManagment.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectManagment.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectManagment.Client.props",
+      "PackagePath": "build\\ProjectManagment.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectManagment.Client.props",
+      "PackagePath": "buildMultiTargeting\\ProjectManagment.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectManagment.Client.props",
+      "PackagePath": "buildTransitive\\ProjectManagment.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
